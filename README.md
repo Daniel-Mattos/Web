@@ -1,4 +1,4 @@
-🚀 Nome do Projeto - Evento Rocketseat
+🚀 Letme Ask - Evento Rocketseat
 
 Este projeto foi desenvolvido durante o NLW 20 agents, uma iniciativa incrível da Rocketseat para aprofundar nossos conhecimentos em desenvolvimento web.
 
