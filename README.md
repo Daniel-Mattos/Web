@@ -36,7 +36,9 @@ Instale as dependências:
 Bash
 
 npm install
+
 # ou
+
 yarn
 Rodando a Aplicação
 Para iniciar o servidor de desenvolvimento do Vite:
@@ -44,7 +46,9 @@ Para iniciar o servidor de desenvolvimento do Vite:
 Bash
 
 npm run dev
+
 # ou
+
 yarn dev
 A aplicação estará disponível em http://localhost:5173/ (ou outra porta, se 5173 já estiver em uso).
 
@@ -54,6 +58,8 @@ Para gerar uma versão otimizada para produção:
 Bash
 
 npm run build
+
 # ou
+
 yarn build
 Os arquivos de produção serão gerados na pasta dist.
